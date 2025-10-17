@@ -59,10 +59,18 @@ If all cells are filled with no winner, it's a draw
 First player to reach the target score wins the overall match
 Scores persist across rounds until reset
 
-<img width="1904" height="892" alt="Screenshot 2025-10-17 155347" src="https://github.com/user-attachments/assets/fef94147-b511-4747-b99d-9d23590a819a" />
-<img width="683" height="885" alt="Screenshot 2025-10-17 155215" src="https://github.com/user-attachments/assets/daf9bdd4-1bb2-45da-9fa0-35541c85149d" />
-<img width="683" height="885" alt="Screenshot 2025-10-17 155215" src="https://github.com/user-attachments/assets/2229745a-0e91-4f62-b1fc-6c0d6886a5b2" />
+
 <img width="626" height="730" alt="Screenshot 2025-10-17 155202" src="https://github.com/user-attachments/assets/0a586ac8-528e-4b4c-b678-8052588f4e27" />
+
+<img width="683" height="885" alt="Screenshot 2025-10-17 155215" src="https://github.com/user-attachments/assets/daf9bdd4-1bb2-45da-9fa0-35541c85149d" />
+
+
+
+<img width="685" height="898" alt="Screenshot 2025-10-17 155226" src="https://github.com/user-attachments/assets/60f44a30-0ec7-47a2-af0f-ed000a44b7f7" />
+
+<img width="1904" height="892" alt="Screenshot 2025-10-17 155347" src="https://github.com/user-attachments/assets/fef94147-b511-4747-b99d-9d23590a819a" />
+
+
 
 
 New Game (reset current board)
